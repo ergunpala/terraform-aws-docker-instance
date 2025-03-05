@@ -16,3 +16,4 @@ module "docker_instance" {
     source = "ergunpala/docker-instance/aws"
     key_name = "clarusway"
 }
+```
